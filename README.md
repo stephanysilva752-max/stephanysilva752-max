@@ -1,6 +1,10 @@
 ## OLÁ!
 ## ME CHAMO STEPHANY E SOU ESTUDANTE DE ANALISE DE DADOS 👋
 
+https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white
+https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white
+https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
+https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
 !(GITHUB).(https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 <!--
